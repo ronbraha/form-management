@@ -1,0 +1,7 @@
+.form-control__radio {
+    margin-bottom: 16px;
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+}

@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    gap: 16px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-item .link {
+    text-transform: capitalize;
+}
+
+.nav-item .link.active {
+    text-decoration: underline;
+}
